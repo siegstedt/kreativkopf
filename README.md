@@ -2,13 +2,13 @@
 
 Wir machen kreativKOPF, weil wir es ändern möchten, dass ['warum nicht?' output einfügen].
 
-kreativKOPF ist für ['Für wen?' output einfügen].
+kreativKOPF ist für alle, die immer wieder Entscheidungen über den Erfolg des eigenen Marketings treffen.
 
 Wir glauben daran, dass kreativKOPF ['Wohin?' output einfügen] wird.
 
-Denn es gibt keine Lösung, die besser ['Wofür' output einfügen] löst als kreativKOPF.
+Denn es gibt keine Lösung, die besser deine Social Media-Kampagnen steuert, deine Budget-Entscheidungen auswertet und deine Performance simuliert löst als kreativKOPF.
 
-kreativKOPF ist die Marketing Software, die deine Social Media-Kampagnen steuert, deine Budget-Entscheidungen auswertet und deine Marketing Performance simuliert.
+kreativKOPF ist nicht nur ein Marketing Tool. kreativKOPF ist so innovativ wie pragmatisch. Ein Gefühl. Eine Geurilla Truppe.
 
 Bist du dabei?
 
@@ -36,9 +36,9 @@ Bist du dabei?
     - setzt auf organischen Daten auf
     - verzichtet auf kostenpflichtige Datenquellen
 
-- kreativKOPF ist nicht over-engineered
+- kreativKOPF ist pragmatisch
     - effizient, iterativ
-    - pragmatisch, simpel
+    - nicht over-engineered, simpel
     - modular, flexibel
 
 
@@ -64,10 +64,16 @@ Bist du dabei?
 
 **Für wen?**
 
-- Für den Mittelstand (KMU): regional und national
-    - keine Expertise: technisch, Wirkungsverhalten, Bedeutung
+- Für den Mittelstand (KMU):
+    - diejenigen, die brilliant sind in dem was sie tun
+    - diejenigen, die Entscheidungen über den Erfolg Ihres Unt. treffen
+    - mit regionalem oder nationalen Auftritt
+    - die keine Expertise im Dig Mkt haben: technisch, Wirkungsweisen, Bedeutung
 - Für kreativBOX
+    - für alle die gegenüber einem Kunden von kreativBOX auftreten
+    - ... mit Selbstvertrauen und Überzeugung die eigene Leistung
 - Für Lizenz-Käufer
+    - für Dritte, die das Tool in ihren eigenen Gebrauch nehmen möchten
 
 **Warum nicht?**
 
