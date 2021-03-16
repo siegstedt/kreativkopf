@@ -1,54 +1,102 @@
 # kreativKOPF
 
-## Desc
+Wir machen kreativKOPF, weil wir es ändern möchten, dass ['warum nicht?' output einfügen].
 
-**kreativKOPF story**
+kreativKOPF ist für ['Für wen?' output einfügen].
 
+Wir glauben daran, dass kreativKOPF ['Wohin?' output einfügen] wird.
 
+Denn es gibt keine Lösung, die besser ['Wofür' output einfügen] löst als kreativKOPF.
+
+kreativKOPF ist die Marketing Software, die deine Social Media-Kampagnen steuert, deine Budget-Entscheidungen auswertet und deine Marketing Performance simuliert.
+
+Bist du dabei?
+
+## about
 
 **Was ist kreativKOPF?**
 
-- kreativKOPF ist eine Prozessoptimierung
-    - effizient
-    - pragmatisch
-    - iterativ
-    - simpel
+- kreativKOPF ist eine Marketing Software
+    - unterstützt Planung von Social Media-Kampagnen
+    - wertet Budget-Entscheidungen aus
+    - simuliert Marketing Performance
+
 - kreativKOPF ist eine Guerilla Truppe
-    - neue Herangehensweise
-    - neue Wege gehen
-    - 
+    - wendet neue Herangehensweise an
+    - geht neue Wege
+    - durchbricht alte Workflows, Verhaltensmuster, Prozesse
+
+- kreativKOPF ist intuitiv
+    - ergibt Sinn im Real World-Kontext
+    - leicht verständlich
+    - unterstützt durch Data Story Telling
+
+- kreativKOPF ist Daten-getrieben
+    - orientiert sich an Small Data-Problemen
+    - setzt auf organischen Daten auf
+    - verzichtet auf kostenpflichtige Datenquellen
+
+- kreativKOPF ist nicht over-engineered
+    - effizient, iterativ
+    - pragmatisch, simpel
+    - modular, flexibel
+
 
 **Wofür?**
 
-
+- Zur optimierten Planung digitaler Marketing-Maßnahmen.
+- Zusammenstellung des Channel-Mixes
+    - Zielgruppen über verschiedene Kanäle identifizieren
+    - Channel Overlap/Reinforcement berücksichtigen
+- Welches Budget auf welchen Kanal?
+    - Höhe der Ausgaben
+    - Welche Aktivitäten
+- Budget-Entscheidung
+    - benefit max: bei gegebenen Kosten den Ertrag maximieren
+    - cost cut: bei gegebenem Ertrag die Kosten minimieren
+- Was kann ich erwarten?
+    - Welchen Umsatz kann ich generieren?
+    - Welche Veränderung der Marketing Performance?
 
 **Wohin?**
 
-**Wer?**
+[Was ist die größere Vision? Wo ist kreativKOPF in 1 Jahr, 5 Jahren?]
+
+**Für wen?**
+
+- Für den Mittelstand (KMU): regional und national
+    - keine Expertise: technisch, Wirkungsverhalten, Bedeutung
+- Für kreativBOX
+- Für Lizenz-Käufer
 
 **Warum nicht?**
 
+[Was sind die riskantesten Annahmen? Was sind die größten technischen Hürden?]
 
+## flow
 
-## Flow
+[flow diagram aus coggl einfügen]
 
-
-
-## To Dos
+## to dos
 
 **user input**
-
+- [ ] geografie
+- [ ] branche
+- [ ] leistung
+- [ ] persona
 
 **data preparation**
-
+- [x] demografie (regionalisiert)
+- [ ] branchenzielgruppen
+- [ ] leistungszielgruppen
+- [ ] marketing performance
 
 **channel calculator**
 - [ ] google adwords calculator
 - [ ] instagram ads calculator
 - [ ] facebook ads calculator
 - [ ] linkedin ads calculator
-- [ ] tiktok
-- [ ] 
+- [ ] tiktok ads calculator
 
 **budget optimizer**
 
