@@ -93,20 +93,15 @@ https://coggle.it/diagram/YFDr0dWHwkw1QR65/t/kreativkopf-flow
 - [ ] leistung
 - [ ] persona
 
-**data preparation**
+**data mapper**
 - [x] demografie (regionalisiert)
 - [ ] branchenzielgruppen
 - [ ] leistungszielgruppen
 - [ ] marketing performance
 
-**channel calculator**
+**cost calculator**
 - [ ] google adwords calculator
 - [ ] instagram ads calculator
 - [ ] facebook ads calculator
 - [ ] linkedin ads calculator
 - [ ] tiktok ads calculator
-
-**budget optimizer**
-
-
-**user output**
