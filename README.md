@@ -83,7 +83,7 @@ Bist du dabei?
 
 https://coggle.it/diagram/YFDr0dWHwkw1QR65/t/kreativkopf-flow
 
-<img src="/concept/kreativKOPF_flow.png" width="10%" height="10%">
+<img src="/concept/kreativKOPF_flow.png" width="100%" height="100%">
 
 ## to dos
 
