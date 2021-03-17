@@ -87,6 +87,13 @@ https://coggle.it/diagram/YFDr0dWHwkw1QR65/t/kreativkopf-flow
 
 ## to dos
 
+**admin**
+
+- [ ] https://developers.google.com/adwords/api/docs/guides/signup google ads developer token mit manager account anfragen
+- [ ] facebook developer account anfragen
+- [ ] instagram developer account anfragen
+- [ ] linkedin developer account anfragen
+
 **user input**
 - [ ] geografie
 - [ ] branche
