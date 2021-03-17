@@ -81,7 +81,9 @@ Bist du dabei?
 
 ## flow
 
-[flow diagram aus coggl einfügen]
+https://coggle.it/diagram/YFDr0dWHwkw1QR65/t/kreativkopf-flow
+
+<img src="/concept/kreativKOPF_flow.png" width="10%" height="10%">
 
 ## to dos
 
