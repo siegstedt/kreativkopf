@@ -2,11 +2,11 @@
 
 Wir machen kreativKOPF, weil wir es ändern möchten, dass ['warum nicht?' output einfügen].
 
-kreativKOPF ist für alle, die immer wieder Entscheidungen über den Erfolg des eigenen Marketings treffen.
+kreativKOPF ist für alle, die immer wieder Entscheidungen über Marketing-Erfolg treffen.
 
 Wir glauben daran, dass kreativKOPF ['Wohin?' output einfügen] wird.
 
-Denn es gibt keine Lösung, die besser deine Social Media-Kampagnen steuert, deine Budget-Entscheidungen auswertet und deine Performance simuliert löst als kreativKOPF.
+Denn es gibt keine Lösung, die besser Social Media-Kampagnen steuert, Budget-Entscheidungen auswertet und Performance simuliert löst als kreativKOPF.
 
 kreativKOPF ist nicht nur ein Marketing Tool. kreativKOPF ist so innovativ wie pragmatisch. Ein Gefühl. Eine Geurilla Truppe.
 
