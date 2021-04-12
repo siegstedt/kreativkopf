@@ -23,8 +23,9 @@ adwords:
   # flow.
   client_id: 118177116346-9vsokf6t9d9b54iusmc3ujrq23iicim6.apps.googleusercontent.com
   client_secret: JvNhJsZYnALHrwA7_Dg0OOBv
-  # access_token: ya29.a0AfH6SMC3V4lI7301re5y1iyOissg7eQ7RPJUJg7y672j0fC4ak_KVawuyjcogyQaw_BL8XYz19Np06wJI4tzVGROwc5gGglvLBABNGYi9HEXIhGhd0mT0mOcw_x-tElSVZ9hLDUb4gF7tIm3uaZV5n97GjWw
-  refresh_token: 1//09p3daNFN_f-XCgYIARAAGAkSNgF-L9IrP0_3cRvjYzszdGDeoAhvx1SGFdzk38ySBOgOPPGaxsC7grwf-yZmGhA1r7M434JGkg
+  #Code: 4/1AY0e-g59dUz4eyb2LXURabE1pXGJI-SUi2QyJybtZsl0GIrXxtIdKgUtnc4
+  #access_token: ya29.a0AfH6SMDtGa2lY3IFJovcAgAUYwGYtzMxbGyBmd2WcO1Dl2vACIelRJ-bsMzOBLWyMyTlwtpjFOi0ayBBPHf0pSh07ISucyRSWNhZMfX6ArMtlv3OAGPVheUIM6Y64_G8peGQICuAJ6U-HFg6JIm1cJ8BOijE
+  refresh_token: 1//09_ghne6w5iYMCgYIARAAGAkSNgF-L9IrW2m2ODyksaeveCBBgZUk_RkT6Ookgb7iADoR7zcVBiuLAN1pc3Dp_Os0MXE7UJpfwQ
   # The following values configure the client for the service account flow.
   # path_to_private_key_file: INSERT_PATH_TO_JSON_KEY_FILE_HERE
   # delegated_account: INSERT_DOMAIN_WIDE_DELEGATION_ACCOUNT
