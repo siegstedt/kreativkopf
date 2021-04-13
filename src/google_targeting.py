@@ -210,7 +210,7 @@ def select_campaign_estimates(estimates, keyword_estimate_requests):
                     'match_type': keyword['matchType'],
                     'avg_cpc': _FormatMean((mean_avg_cpc/1000000 if mean_avg_cpc else None )),
                     'avg_pos': _FormatMean(mean_avg_pos),
-                    'click_trough': _FormatMean(mean_clickthrough),
+                    'click_through': _FormatMean(mean_clickthrough),
                     'daily_clicks': _FormatMean(mean_clicks),
                     'daily_impressions': _FormatMean(mean_impressions),
                     'daily_cost': _FormatMean((mean_total_cost/1000000 if mean_total_cost else None)),
