@@ -32,9 +32,9 @@ def generate_keywords_from_text(text_in, nr_kw_out=10):
         'ein','eine','einen','kein','keine','keinen','keines','keiner','keinem',
         'der','die','das','dem','den',
         'ich','du','er','sie','es','wir',
-        'mir','mein','meine','meiner','meines','meinem','meinen',
-        'dir','dein','deine','deiner','deines','deinem','deinen',
-        'ihn','ihm','sein','seine','seiner','seines','seinem','seinen',
+        'mich','mir','mein','meine','meiner','meines','meinem','meinen',
+        'dich','dir','dein','deine','deiner','deines','deinem','deinen',
+        'sich','ihn','ihm','sein','seine','seiner','seines','seinem','seinen',
         'ihr','ihre','ihrer','ihres','ihrem','ihren','ihnen',
         'uns','unser','unsere','unseres','unserem','unseren',
     ]
@@ -42,7 +42,7 @@ def generate_keywords_from_text(text_in, nr_kw_out=10):
         'und','oder','auch','aber','in','im','ins','an','am','ans',
         'um','ums','aus','wie','so','also','weil','für','fürs','nach',
         'vor','vorm','denn','dann','damit','darin','daraus','trotz',
-        'trotzdem','sonst','seit','bis'
+        'trotzdem','sonst','seit','bis','über','unter','auf'
     ]
     verben = [
         'bin','bist','ist','sind','seid',
