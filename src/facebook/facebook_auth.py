@@ -71,3 +71,4 @@ def get_latest_token(token_file_oath='auth/facebooktoken.txt'):
         return access_token
     else:
         raise ValueError(f'Long lived access token has expired on {latest_expiry_str}. Please retrieve a new one.')
+

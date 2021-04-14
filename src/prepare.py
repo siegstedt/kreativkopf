@@ -37,12 +37,15 @@ def generate_keywords_from_text(text_in, nr_kw_out=10):
         'sich','ihn','ihm','sein','seine','seiner','seines','seinem','seinen',
         'ihr','ihre','ihrer','ihres','ihrem','ihren','ihnen',
         'uns','unser','unsere','unseres','unserem','unseren',
+        'wer','wie','was','wen','wem','warum','wo','welche','welcher','welches',
+        'dieses','dieser','diese',
     ]
     fuellwoerter = [
         'und','oder','auch','aber','in','im','ins','an','am','ans',
         'um','ums','aus','wie','so','also','weil','für','fürs','nach',
         'vor','vorm','denn','dann','damit','darin','daraus','trotz',
-        'trotzdem','sonst','seit','bis','über','unter','auf'
+        'trotzdem','sonst','seit','bis','über','unter','auf',
+        'mit','dass','als','da','dort',
     ]
     verben = [
         'bin','bist','ist','sind','seid',

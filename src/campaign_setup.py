@@ -48,3 +48,11 @@ class CampaignSetup:
 
     # def get_auth():
     #
+
+
+    # def set_new_client():
+    # def read_client():
+
+    # def set_new_campaign():
+    # def read_campaign():
+    # 
