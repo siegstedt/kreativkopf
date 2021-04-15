@@ -25,7 +25,7 @@ def generate_keywords_from_text(text_in, nr_kw_out=10):
     text = text_in
     text = text.lower()
 
-    satzzeichen = [".",",","!","?","\n","-"]
+    satzzeichen = [".",",","!","?","-"]
     for i in satzzeichen:
         text = text.replace(i, " ")
     artikel = [
