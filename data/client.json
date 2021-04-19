@@ -1,0 +1,62 @@
+[
+    {
+        "id": "client_0001",
+        "name": "Thor Galabau",
+        "locations": [
+            "Offenbach a. Main",
+            "Elsensfeld"
+        ],
+        "home url": "https://thor-galabau.com/",
+        "childpages": [
+            "https://thor-galabau.com",
+            "https://thor-galabau.com/datenschutz/",
+            "https://thor-galabau.com/impressum/",
+            "https://thor-galabau.com/inspirationen/",
+            "https://thor-galabau.com/karriere/",
+            "https://thor-galabau.com/kontakt/",
+            "https://thor-galabau.com/leistungen/",
+            "https://thor-galabau.com/ueber-uns/"
+        ],
+        "social media pages": {
+            "facebook": [
+                "https://www.facebook.com/THOR.GaLaBau"
+            ],
+            "instagram": [
+                "https://www.instagram.com/thor.galabau/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/company/thor-galabau"
+            ]
+        }
+    },
+    {
+        "id": "client_0002",
+        "name": "Thor Galabau",
+        "locations": [
+            "Offenbach a. Main",
+            "Elsensfeld"
+        ],
+        "home url": "https://thor-galabau.com/",
+        "childpages": [
+            "https://thor-galabau.com",
+            "https://thor-galabau.com/datenschutz/",
+            "https://thor-galabau.com/impressum/",
+            "https://thor-galabau.com/inspirationen/",
+            "https://thor-galabau.com/karriere/",
+            "https://thor-galabau.com/kontakt/",
+            "https://thor-galabau.com/leistungen/",
+            "https://thor-galabau.com/ueber-uns/"
+        ],
+        "social media pages": {
+            "facebook": [
+                "https://www.facebook.com/THOR.GaLaBau"
+            ],
+            "instagram": [
+                "https://www.instagram.com/thor.galabau/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/company/thor-galabau"
+            ]
+        }
+    }
+]
